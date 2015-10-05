@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GxtApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_project">New Project</string>
+    <string name="existing_project">Existing Project</string>
+    <string name="main_title">Field Notes App</string>
+    <string name="project_info">New Project Information</string>
+    <string name="title_activity_project_information">ProjectInformation</string>
+    <string name="gxt_project_number">Gxt Project #:</string>
+    <string name="client_number">Client Project #:</string>
+    <string name="title_activity_field_sheet">FieldSheet</string>
+    <string name="project_address">Project Address:</string>
+    <string name="eng_name">Engineer Name:</string>
+    <string name="field_sheet">Field Sheet</string>
+    <string name="road_name">Road Name</string>
+    <string name="dir_looking">Direction Looking</string>
+    <string name="dir_base">Direction from B/L</string>
+    <string name="next_button">NEXT</string>
+    <string name="begin_button">BEGIN FIELD NOTES</string>
+    <string name="title_activity_station">Station Activity</string>
+    <string name="station">STATION</string>
+    <string name="title_activity_objects">Select Object</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_object_list">ObjectList</string>
+
+    <!--
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    -->
+</resources>

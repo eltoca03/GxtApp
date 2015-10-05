@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycompany.gxtapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation= "portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProjectInformation"
+            android:label="@string/title_activity_project_information"
+            android:screenOrientation= "portrait">
+        </activity>
+        <activity
+            android:name=".FieldSheet"
+            android:label="@string/title_activity_field_sheet"
+            android:screenOrientation= "portrait">
+        </activity>
+        <activity
+            android:name=".StationActivity"
+            android:label="@string/title_activity_station"
+            android:windowSoftInputMode="stateHidden"
+            android:screenOrientation= "portrait">
+        </activity>
+        <activity
+            android:name=".Objects"
+            android:label="@string/title_activity_objects"
+            android:screenOrientation= "portrait">
+        </activity>
+        <activity
+            android:name=".List"
+            android:label="@string/title_activity_list"
+            android:screenOrientation= "portrait">
+        </activity>
+    </application>
+
+</manifest>
